@@ -1,0 +1,25 @@
+{
+    "name": "David Easley",
+    "website": "look at me, im the captain now",
+    "linkedin": "wakawaka",
+    "github": "dave-easley550",
+    "email": "easley.david@gmail.com",
+    "resume": "not yet",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django"
+        
+    ],
+    "otherSkills": [
+        "Peachey Dancer",
+        "flying like superman",
+        "waka waka"
+    ]
+}
